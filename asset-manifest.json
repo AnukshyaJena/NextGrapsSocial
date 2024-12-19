@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/NextGrapsSocial/static/css/main.7e7082c5.css",
+    "main.js": "/NextGrapsSocial/static/js/main.641dfe93.js",
+    "static/media/ML.webp": "/NextGrapsSocial/static/media/ML.dca389d47123538321ad.webp",
+    "static/media/homepage.webp": "/NextGrapsSocial/static/media/homepage.d30949a747e45619fa8b.webp",
+    "static/media/robot1.png": "/NextGrapsSocial/static/media/robot1.58ef512b17165d2d4c52.png",
+    "static/media/career.png": "/NextGrapsSocial/static/media/career.1e84733ac7a1bd15bb0a.png",
+    "static/media/AI.jpg": "/NextGrapsSocial/static/media/AI.3318555c0ae4bf9df474.jpg",
+    "static/media/da.webp": "/NextGrapsSocial/static/media/da.49367f6e81877fc9a958.webp",
+    "static/media/right.jpg": "/NextGrapsSocial/static/media/right.f1f14eae93d07ebad9aa.jpg",
+    "static/media/left1.avif": "/NextGrapsSocial/static/media/left1.4da6470f6445f5c2ddc0.avif",
+    "static/media/gradient.avif": "/NextGrapsSocial/static/media/gradient.d4a6aa44209151d9cfe4.avif",
+    "static/media/b1.jpg": "/NextGrapsSocial/static/media/b1.9726663498abd51ab644.jpg",
+    "static/media/image4.jpeg": "/NextGrapsSocial/static/media/image4.35bc584382802b038e08.jpeg",
+    "index.html": "/NextGrapsSocial/index.html",
+    "main.7e7082c5.css.map": "/NextGrapsSocial/static/css/main.7e7082c5.css.map",
+    "main.641dfe93.js.map": "/NextGrapsSocial/static/js/main.641dfe93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7082c5.css",
+    "static/js/main.641dfe93.js"
+  ]
+}
